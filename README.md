@@ -15,5 +15,5 @@ _**HTML 5** and **CSS3**_
 
 ---
 ## Notes
-I appreciate your interest in this project_
+I appreciate your interest in this project <br/>
 ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊
